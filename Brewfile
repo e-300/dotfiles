@@ -1,0 +1,11 @@
+cask "font-jetbrains-mono-nerd-font"
+cask "stats"
+
+brew "neovim"
+brew "go"
+brew "fzf"
+brew "ripgrep"
+brew "btop"
+brew "helm"
+brew "tree"
+brew "tree-sitter-cli"
